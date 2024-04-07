@@ -8,7 +8,7 @@ JavaScript basics and advanced concepts through fun exercises and projects. Prac
 JavaScript
 
 
-## Authors
+## Author
 
 - [@SatkuriSaikiran](https://github.com/SatkuriSaikiran)
 
