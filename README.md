@@ -5,7 +5,7 @@ JavaScript basics and advanced concepts through fun exercises and projects. Prac
 
 
 ## 🛠 Skills
-Javascript
+JavaScript
 
 
 ## Authors
