@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+        // closures: are used to secure the data 
+        // NOTE: in export and import file perfect example is their check it once
+        function outerFunction() {
+            let outerVariable = 'I am from the outer function';
+        
+            function innerFunction() {
+                console.log(outerVariable); // inner function has access to outerVariable
+            }
+        
+            return innerFunction; // returning innerFunction
+        }
+        
+        let closureExample = outerFunction(); // executing outerFunction, and storing the returned innerFunction in closureExample
+        closureExample(); // when closureExample is executed, it still has access to outerVariable
+        
+
+    
+    </script>
+</body>
+</html>
