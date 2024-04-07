@@ -3,7 +3,7 @@
 
 JavaScript basics and advanced concepts through fun exercises and projects. Practice fetch API for handling data from external sources. Start coding and master JavaScript in a hands-on environment!
 
-
+🔗[Code](https://github.com/SatkuriSaikiran/JavaScript/tree/main)
 ## 🛠 Skills
 JavaScript
 
