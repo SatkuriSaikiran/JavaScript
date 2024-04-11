@@ -11,3 +11,8 @@ let interval = setInterval(function(){
 setTimeout(function() {
     clearInterval(interval); // Clear the interval
 }, 15000); // Stop the interval after 15 seconds
+
+let a = 12;
+let b = 10;
+let c = a===b;
+console.log(c);
